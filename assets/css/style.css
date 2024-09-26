@@ -1,0 +1,78 @@
+
+.square1 {
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    position: relative;
+    left: 50px;
+    top: 50px;
+
+}
+
+.square2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    left: 100px;
+    top: 150px;
+}
+
+.square3 {
+    left: 300px;
+    top: 150px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.square4 {
+    left: 100px;
+    top: 300px;
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    background-color: black;
+
+}
+
+.square5 {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    position: relative;
+    left: 700px;
+    bottom: 450px;
+}
+
+.square6 {
+    right: 1px;
+    bottom: 1px;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border: 2px dotted green;
+
+}
+
+.square7 {
+    left: 1px;
+    top: 1px;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border: 2px dotted blue;
+}
+.circle {
+    background-color: yellow;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    bottom: 50px;
+    left: 50px;
+    position: absolute;
+}
+
+
+
